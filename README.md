@@ -1,4 +1,4 @@
-# Desafio-16
+# Desafio-16 SQL y Node.js (Parte 1)
  Programacion Backend - Coderhouse
 
 >> Consigna: Mediante en uso del cliente MySQL Workbench realizar las siguientes tareas:
@@ -12,3 +12,7 @@ Insertar estos 3 registros en esa tabla
 Fideos, categoría:Harina, stock:20 
 Leche, categoría:Lácteos, stock:30
 Crema, categoría:Lácteos, stock:15
+* Listar los registros agregados
+* Borrar el item con id = 1
+* Actualizar el stock del item con id = 2 a 45
+* Listar los registros comprobando que los datos estén actualizados según las acciones realizadas.
