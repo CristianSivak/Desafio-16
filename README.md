@@ -1,4 +1,4 @@
-# Desafio-16 SQL y Node.js (Parte 1)
+# Desafio 16 - SQL y Node.js (Parte 1)
  Programacion Backend - Coderhouse
 
 >> Consigna: Mediante en uso del cliente MySQL Workbench realizar las siguientes tareas:
